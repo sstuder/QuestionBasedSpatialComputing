@@ -10,7 +10,7 @@ The implementation is a development of the original repository that is in a proo
 
 Contents
 -----------------------------
-spatial analyses:
+- [spatial analyses](CaseStudy): Conventional analysis and spatial analysis with the core concepts of the case study.
 - `UrbanWater.py`: Conventinal spatial analysis.
 - `UrbanWater_cc.py`: Spatial analysis with the core concepts.
 
