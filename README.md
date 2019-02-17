@@ -10,7 +10,7 @@ Contents
 - `UrbanWater.py`: Conventinal spatial analysis.
 - `UrbanWater_cc.py`: Spatial analysis with the core concepts.
 
-[Core Concepts Python Library:](coreconcepts): 
+[Core Concepts Python Library](coreconcepts): 
 - `coreconcepts.py`: Abstract concepts.
 - `fields.py`: Implementations of fields.
 - `objects.py`: Implementations of objects.
