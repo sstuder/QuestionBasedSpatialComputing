@@ -8,7 +8,7 @@ The implementation is a development of the original repository that is in a proo
 
 Contents
 -----------------------------
-spatial analses:
+spatial analyses:
 - `UrbanWater.py`: Conventinal spatial analysis.
 - `UrbanWater_cc.py`: Spatial analysis with the core concepts.
 
