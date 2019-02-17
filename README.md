@@ -4,17 +4,13 @@
 
 *Keywords:* language for spatial computing; question-based analysis; domain-specific language; transdisciplinarity
 
-See the [Readme] https://github.com/spatial-ucsb/ConceptsOfSpatialInformation/blob/master/README.md of the original repository for general information about the Core Concepts.
-
-The implementation is a development of the original repository that is in a proof of concept state. It still should not be considered stable for a production environment.
-
 Contents
 -----------------------------
-[spatial analyses](https://github.com/sstuder/QuestionBasedSpatialComputing): Conventional analysis and spatial analysis with the core concepts of the case study.
+[Case Study](https://github.com/sstuder/QuestionBasedSpatialComputing): 
 - `UrbanWater.py`: Conventinal spatial analysis.
 - `UrbanWater_cc.py`: Spatial analysis with the core concepts.
 
-[spatial analyses](coreconcepts): Core concepts Python library:
+[Core Concepts Python Library:](coreconcepts): 
 - `coreconcepts.py`: Abstract concepts.
 - `fields.py`: Implementations of fields.
 - `objects.py`: Implementations of objects.
