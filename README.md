@@ -4,7 +4,7 @@ Abstract: A Python implementation of the core concepts of spatial information fr
 
 See the [Readme] https://github.com/spatial-ucsb/ConceptsOfSpatialInformation/blob/master/README.md of the original repository for general information about the Core Concepts.
 
-The implementation is a development of the original repository that is in a proof of concept state. It stills should not be considered stable for a production environment.
+The implementation is a development of the original repository that is in a proof of concept state. It still should not be considered stable for a production environment.
 
 Contents
 -----------------------------
