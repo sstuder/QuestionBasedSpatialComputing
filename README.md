@@ -8,10 +8,16 @@ The implementation is a development of the original repository that is in a proo
 
 Contents
 -----------------------------
+spatial analses:
+- `UrbanWater.py`: Conventinal spatial analysis.
+- `UrbanWater_cc.py`: Spatial analysis with the core concepts.
+
+core concepts library:
 - `coreconcepts.py`: Abstract concepts.
 - `fields.py`: Implementations of fields.
 - `objects.py`: Implementations of objects.
 - `utils.py`: Utilities.
+
 
 References:
 - ICRC (International Committee of the Red Cross), 2017	Calculating Buildings Being Supplied by a Water Point. Draft tutorial about Urban Water Toolbox, Geneva, Switzerland.
