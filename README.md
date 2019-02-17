@@ -19,7 +19,8 @@ core concepts library:
 - `utils.py`: Utilities.
 
 
-References:
+References
+-----------------------------
 - ICRC (International Committee of the Red Cross), 2017	Calculating Buildings Being Supplied by a Water Point. Draft tutorial about Urban Water Toolbox, Geneva, Switzerland.
 
 - Kuhn, Werner, Andrea Ballatore, Eric Ahlgren, MarcThiemann, Michel Zimmer, Behazd Vahedi, Thomas Hervey, Sara Lafia, Liangcun Jiang, 2018[2014]	Specifications and Resources towards a Language for Spatial Computing: Spatial-Ucsb/ConceptsOfSpatialInformation. Haskell, JavaScript, Python, RDF. spatial@ucsb. https://github.com/spatial-ucsb/ConceptsOfSpatialInformation, accessed September 26, 2018.
